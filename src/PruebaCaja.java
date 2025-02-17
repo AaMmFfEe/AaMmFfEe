@@ -30,5 +30,24 @@ public class PruebaCaja {
         CajaPOO3 miCaja6 = new CajaPOO3(10, 4, 5);
         System.out.println( " El volumen de la caja 6 es: " + miCaja6.calcularVolumen());
 
+
+        // Ejemplo de variables public y private
+
+        // No se pueden asignar individualmente por ser private
+        CajaPOO3 miCaja7 = new CajaPOO3();
+       // miCaja7.largo = 5;
+       // miCaja7.ancho = 3;
+       // miCaja7.alto = 2;
+
+       // System.out.println( " El largo de la caja 7 es: " + miCaja7.largo
+               // + " El ancho de la caja 7 es: " + miCaja7.ancho
+               //  + " El largo de la caja 7 es: " + miCaja7.alto );
+
+       // System.out.println( " El volumen de la caja 7 es: " + miCaja7.calcularVolumen());
+
+        miCaja7.setDimensions (5,3,2 );
+        miCaja7.getDimensions();
+        System.out.println( " El volumen de la caja 7 es: " + miCaja7.calcularVolumen());
+
     }
 }
