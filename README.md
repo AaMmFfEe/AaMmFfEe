@@ -4,9 +4,10 @@
 <img width="200" height="40" alt="cute" src="https://github.com/user-attachments/assets/45ba6dcf-f25c-42f4-96b4-93ff1a2901b5" />
 <img width="200" height="40" alt="cute" src="https://github.com/user-attachments/assets/45ba6dcf-f25c-42f4-96b4-93ff1a2901b5" />
 <br>
-<img width="20" height="20" alt="008" src="https://github.com/user-attachments/assets/a0f70263-e74b-41ea-90c8-b6605ebc91c0" />
+ <img width="25" height="25" alt="tumblr-f78fb8acea9cec599ceb160772128d01-9bf31375-100" src="https://github.com/user-attachments/assets/0a1eb82e-d2d0-47ef-b9ab-058ac0f4b755" />
  ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉
-<img width="20" height="20" alt="008" src="https://github.com/user-attachments/assets/a0f70263-e74b-41ea-90c8-b6605ebc91c0" />
+ <img width="25" height="25" alt="tumblr-f78fb8acea9cec599ceb160772128d01-9bf31375-100" src="https://github.com/user-attachments/assets/0a1eb82e-d2d0-47ef-b9ab-058ac0f4b755" />
+
 <br>
 
 ## .ᐟ₊⊹ Bienvenid@ a mi Github .ᐟ₊⊹
