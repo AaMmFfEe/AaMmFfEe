@@ -12,7 +12,7 @@
 </div>
 
 ## .ᐟ₊⊹ Bienvenid@ a mi Github .ᐟ₊⊹
-<h2>¿Quién soy?</h2>
+<h3>¿Quién soy?</h3>
 
 
 <br>
