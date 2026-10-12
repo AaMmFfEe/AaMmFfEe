@@ -9,11 +9,14 @@
  <img width="50" height="50" alt="tumblr-f78fb8acea9cec599ceb160772128d01-9bf31375-100" src="https://github.com/user-attachments/assets/0a1eb82e-d2d0-47ef-b9ab-058ac0f4b755" />
 
 <br>
+</div>
 
 ## .ᐟ₊⊹ Bienvenid@ a mi Github .ᐟ₊⊹
+<h2>¿Quién soy?</h2>
 
 
 <br>
+<div align="center">
   <img width="50" height="50" alt="tumblr-f78fb8acea9cec599ceb160772128d01-9bf31375-100" src="https://github.com/user-attachments/assets/0a1eb82e-d2d0-47ef-b9ab-058ac0f4b755" />
  ﹉﹉﹉୨♡୧﹉﹉﹉ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ ﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ ﹉﹉﹉୨♡୧﹉﹉﹉
  <img width="50" height="50" alt="tumblr-f78fb8acea9cec599ceb160772128d01-9bf31375-100" src="https://github.com/user-attachments/assets/0a1eb82e-d2d0-47ef-b9ab-058ac0f4b755" />
@@ -23,3 +26,4 @@
 <img width="200" height="40" alt="cute" src="https://github.com/user-attachments/assets/45ba6dcf-f25c-42f4-96b4-93ff1a2901b5" />
 <img width="200" height="40" alt="cute" src="https://github.com/user-attachments/assets/45ba6dcf-f25c-42f4-96b4-93ff1a2901b5" />
 </div>
+
