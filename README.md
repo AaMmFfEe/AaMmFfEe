@@ -13,7 +13,7 @@
 
 
 <h1 align="center">.ᐟ₊⊹ Bienvenid@ a mi Github .ᐟ₊⊹</h1>
-<img width="20" height="20" alt="002" src="https://github.com/user-attachments/assets/783d5d7b-51db-4b22-bc69-f4cca194b133" style="float:right;" /> 
+<img style= "float: left;" width="20" height="20" alt="002" src="https://github.com/user-attachments/assets/783d5d7b-51db-4b22-bc69-f4cca194b133" /> 
 <p>¿Quién soy?</p>
 
 
