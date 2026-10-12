@@ -11,9 +11,8 @@
 <br>
 </div>
 
-<div align="center">
-## .ᐟ₊⊹ Bienvenid@ a mi Github .ᐟ₊⊹
-</div>
+
+<h1 align="center">.ᐟ₊⊹ Bienvenid@ a mi Github .ᐟ₊⊹</h1>
 <h3>¿Quién soy?</h3>
 
 
